@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-18T20:25:39 IST" name="Default suite" finished-at="2024-11-18T20:26:39 IST" duration-ms="60670">
+    <groups>
+    </groups>
+    <test started-at="2024-11-18T20:25:39 IST" name="Default test" finished-at="2024-11-18T20:26:39 IST" duration-ms="60670">
+      <class name="glintReports.GlintReportsLogin">
+        <test-method is-config="true" signature="open()[pri:0, instance:glintReports.GlintReportsLogin@247d8ae]" started-at="2024-11-18T20:25:39 IST" name="open" finished-at="2024-11-18T20:26:28 IST" duration-ms="49669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="TC_005()[pri:0, instance:glintReports.GlintReportsLogin@247d8ae]" started-at="2024-11-18T20:26:28 IST" name="TC_005" finished-at="2024-11-18T20:26:39 IST" duration-ms="10948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005 -->
+      </class> <!-- glintReports.GlintReportsLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
