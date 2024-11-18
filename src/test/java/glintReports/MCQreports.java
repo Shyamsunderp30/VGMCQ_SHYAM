@@ -135,7 +135,7 @@ driver.findElement(By.linkText("Reports")).click();
 Thread.sleep(1000);
 driver.findElement(By.xpath("/html[1]/body[1]/glint-root[1]/div[1]/div[2]/div[1]/main[1]/div[1]/glint-report-landing[1]/glint-reports[1]/glint-panel[1]/div[1]/div[1]/div[1]/div[1]/glint-facet-list[1]/div[2]/ul[1]/li[3]/div[1]/span[1]/span[1]")).click();
 Thread.sleep(2000);
-driver.findElement(By.xpath("//div[contains(text(),'Response Rate Report')]")).click();
+driver.findElement(By.xpath("//div[contains(text(),'Multiple Choice Question Report')]")).click();
 Thread.sleep(4000);
 driver.findElement(By.xpath("/html[1]/body[1]/glint-root[1]/div[1]/div[2]/div[1]/main[1]/div[1]/glint-engagement-report[1]/glint-report-detail[1]/div[1]/div[1]/section[2]/glint-report-header[1]/div[1]/div[1]/div[1]/div[1]/glint-report-template-tools[1]/glint-dropdown[2]/div[1]/div[1]/div[1]")).click();
 Thread.sleep(1000);
